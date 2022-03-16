@@ -9,5 +9,7 @@
     "files": [
         {"name": "index.lua", "type": "shared"}
     ],
-    "dependencies": {}
+    "dependencies": {
+        "stringfy": "1.0.0"
+    }
 }
