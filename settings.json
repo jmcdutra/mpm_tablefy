@@ -1,0 +1,12 @@
+{
+  "name": "tablefy",
+  "version": "1.0.0",
+  "repository": "https://github.com/jmcdutra/mpm_tablefy",
+  "description": "",
+  "main": "index.lua",
+  "author": "Dutra,
+  "license": "ISC",
+  "dependencies": {
+
+  }
+}
